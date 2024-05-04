@@ -5,7 +5,7 @@ export default function MainContent() {
             <p className="text-xl font-bold mb-3">
                 Experience
             </p>
-            <strong className="pl-5">Custom Software Engineering Associate - Accenture - 2.5 years (May 2021 - current)</strong>
+            <strong className="pl-5">Custom Software Engineering Associate - Accenture - 3 years</strong>
             <br />
             <ul className="pl-5">
                 <li>Design, develop and test custom software solutions across multiple system
